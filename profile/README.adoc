@@ -6,6 +6,7 @@
 
 Наш аккаунт на GitHub — это место, где академический и административный персонал университета работают над разработкой и распространением исследовательского кода и программного обеспечения. Мы приглашаем тебя присоединиться к нашим проектам и вместе трудиться над созданием лучшего будущего.
 
+++++
 <details>
 	<summary>:key: Я работаю в ЯрГУ и хочу получить доступ!</summary>
 	<br>
@@ -33,3 +34,4 @@
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
 	</ul>
 </details>
+++++
