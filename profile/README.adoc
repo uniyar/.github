@@ -9,7 +9,7 @@
 
 ++++
 <details>
-	<summary>:man_teacher: Я работаю в ЯрГУ и хочу получить доступ!</summary>
+	<summary>:man_technologist: Я работаю в ЯрГУ и хочу получить доступ!</summary>
 	<br>
 	<ul>
     <p>
