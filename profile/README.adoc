@@ -1,7 +1,7 @@
 :main_site: https://www.uniyar.ac.ru
 :opensource_guide: https://opensource.guide/ru/
 
-= Добро пожаловать в ЯрГУ
+= Добро пожаловать
 
 ++++
 <p align="center">
@@ -18,15 +18,13 @@
 	<summary>:man_technologist: Я работаю в ЯрГУ и хочу получить доступ!</summary>
 	<br>
 	<ul>
-    <p>
-     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    </p>
-    <p>
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    </p>
-    <p>
-     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    </p>
+++++
+GitHub-организация *GitHub@Uniyar* открыта для всех исследователей, преподавателей и сотрудников ЯрГУ. Для получения доступа нужно, чтобы твой аккаунт GitHub входил в GitHub-организацию *GitHub@Uniyar*. После этого ты сможешь создавать внутри неё репозитории и команды. Подробная инструкция по работе с *GitHub@Uniyar* доступна в  link:{ghttps://github.com/uniyar/getting-started}[руководстве по началу работы].
+
+Если у тебя нет опыта работы с Git и GitHub, то в интернете есть много ресурсов, которые помогут тебе освоиться. Например, ты можешь пройти бесплатный курс link:{https://github.com/skills/introduction-to-github}[Введение в GitHub (англ.)] от GitHub. Также мы рекомендуем тебе ознакомиться с link:{https://docs.github.com/ru/get-started/quickstart/hello-world}[руководством по началу работы с GitHub].
+
+Кроме того, программа *GitHub Education* предоставляет бесплатные инструменты для разработчиков (например, GitHub Copilot) для студентов и преподавателей. Доступ к программе https://education.github.com/teachers[можно получить по ссылке] .
+++++
 	</ul>
 </details>
 
