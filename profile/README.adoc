@@ -32,11 +32,14 @@ GitHub-организация *GitHub@Uniyar* открыта для всех и�
 	<summary>:student: Я учусь в ЯрГУ и хочу использовать GitHub!</summary>
 	<br>
 	<ul>
-    <p>TLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-    <p>
-     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    <p>
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
+++++
+
+`GitHub` предлагает студентам бесплатные продукты (https://education.github.com/pack[Student Developer pack], https://docs.github.com/ru/get-started/learning-about-github/githubs-products#github-pro[GitHub Pro] и https://docs.github.com/ru/copilot[GitHub Copilot]). Для их получения нужно пройти регистрацию на сайте https://education.github.com/[GitHub Education].
+
+Если у тебя нет опыта работы с Git и GitHub, то в интернете есть много ресурсов, которые помогут тебе освоиться. Можешь, например, изучить наше 	https://github.com/uniyar/getting-started/blob/main/docs/best-practices.adoc[руководство по лучшим практикам] работы.
+
+Студенты не могут стать полноправными участниками организации *GitHub@Uniyar*, но могут быть приглашены в качестве _внешних сотрудников_ администраторами репозиториев (например, создателем репозитория). Администраторы репозиториев могут предоставить студентам полный доступ к репозиторию, включая, при необходимости, права на запись и администрирование.
+++++
 	</ul>
 </details>
 ++++
